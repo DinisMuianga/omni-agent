@@ -1,0 +1,6 @@
+flask
+twilio
+openai
+supabase
+python-dotenv
+gunicorn
